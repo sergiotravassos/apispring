@@ -1,4 +1,4 @@
-package com.sergiotravassos.apispring.services.services.exceptions;
+package com.sergiotravassos.apispring.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 
